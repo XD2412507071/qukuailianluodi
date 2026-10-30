@@ -1,6 +1,6 @@
 const messageType = require("./messages-type.js");
 const Messages = require("./messages.js");
-const Block = require("./block.js");
+const Block = require("./Block.js");
 console.log("========消息类型和消息工厂测试开始============");
 try {
     // 测试1：消息的枚举类型
